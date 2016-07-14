@@ -1,0 +1,110 @@
+{
+  "_args": [
+    [
+      "serve-webpack-client",
+      "/Users/shahartaite/git/jackiechan"
+    ]
+  ],
+  "_from": "serve-webpack-client@latest",
+  "_id": "serve-webpack-client@0.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/serve-webpack-client",
+  "_nodeVersion": "0.12.0",
+  "_npmUser": {
+    "email": "seth@rangle.io",
+    "name": "sethdavenport"
+  },
+  "_npmVersion": "2.5.1",
+  "_phantomChildren": {
+    "array-flatten": "1.1.1",
+    "content-type": "1.0.2",
+    "cookie": "0.3.1",
+    "cookie-signature": "1.0.6",
+    "debug": "2.2.0",
+    "depd": "1.1.0",
+    "destroy": "1.0.4",
+    "encodeurl": "1.0.1",
+    "etag": "1.7.0",
+    "forwarded": "0.1.0",
+    "fresh": "0.3.0",
+    "inherits": "2.0.1",
+    "methods": "1.1.2",
+    "mime": "1.3.4",
+    "mime-types": "2.1.11",
+    "ms": "0.7.1",
+    "on-finished": "2.3.0",
+    "parseurl": "1.3.1",
+    "path-to-regexp": "0.1.7",
+    "setprototypeof": "1.0.1",
+    "statuses": "1.3.0",
+    "type-is": "1.6.13",
+    "unpipe": "1.0.0",
+    "utils-merge": "1.0.0"
+  },
+  "_requested": {
+    "name": "serve-webpack-client",
+    "raw": "serve-webpack-client",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/serve-webpack-client/-/serve-webpack-client-0.0.4.tgz",
+  "_shasum": "6109659b0904254fbb7e58cc30e7ea8e82c0020c",
+  "_shrinkwrap": null,
+  "_spec": "serve-webpack-client",
+  "_where": "/Users/shahartaite/git/jackiechan",
+  "author": {
+    "name": "seth@rangle.io"
+  },
+  "bugs": {
+    "url": "https://github.com/rangle/serve-webpack-client/issues"
+  },
+  "dependencies": {
+    "express": "^4.13.3",
+    "webpack": "^1.12.9",
+    "webpack-dev-middleware": "^1.4.0",
+    "webpack-hot-middleware": "^2.6.0",
+    "winston": "^2.1.1"
+  },
+  "description": "Helper for serving webpack-bundled client code from a nodejs/express server.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6109659b0904254fbb7e58cc30e7ea8e82c0020c",
+    "tarball": "https://registry.npmjs.org/serve-webpack-client/-/serve-webpack-client-0.0.4.tgz"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "gitHead": "bee27d6c867498e28b38f819fa019c6baaa4dea6",
+  "homepage": "https://github.com/rangle/serve-webpack-client#readme",
+  "keywords": [
+    "webpack",
+    "express",
+    "helper"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "seth@rangle.io",
+      "name": "sethdavenport"
+    }
+  ],
+  "name": "serve-webpack-client",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rangle/serve-webpack-client.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.4"
+}
